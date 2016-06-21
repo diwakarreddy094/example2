@@ -14,4 +14,9 @@ public void greetins()
 {
 return 1;
 }
+
+public void()
+{
+retrun(3+5);
+}}
 }
